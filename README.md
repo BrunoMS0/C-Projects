@@ -1,2 +1,2 @@
 # C-Projects
-This project contains assignments from my university developed in the C++ programming language.
+This repository contains projects from my university developed in the C++ programming language.
